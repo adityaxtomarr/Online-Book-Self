@@ -1,4 +1,3 @@
-# Online-Book-Self
 # DigitalBookshelf
 
 ## About
